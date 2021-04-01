@@ -11,8 +11,9 @@
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Realm-Database-informational?style=flat&logo=realm&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Database-Realm-informational?style=flat&logo=realm&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sqlserver&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9400D3)
 
 
 ### Social Media
