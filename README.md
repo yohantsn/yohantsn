@@ -3,7 +3,6 @@
 ### About Me
 
 - I have been a Mobile Software Engineer for more than 5 years, I have worked on several projects, including app for IOT and finance apps.
-- For the development of these projects, I used Flutter, Kotlin and Swift.
 
 
 ### Technologies & Tools
