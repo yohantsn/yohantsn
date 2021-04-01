@@ -1,13 +1,13 @@
 <h1>Hi, i'm Yohan Sampaio </h1>
 
-<h2><b>About me</b></h2>
+### About Me
 
 - I have been a Mobile Software Engineer for more than 5 years, I have worked on several projects, including app for IOT and finance apps.
 - For the development of these projects, I used Flutter, Kotlin and Swift.
 
 
 ### Technologies & Tools
-[](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=9400D3)
