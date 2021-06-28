@@ -13,9 +13,10 @@ architecture and test culture.
 
 ### Expertise
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Database-Realm-informational?style=flat&logo=realm&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sqlserver&logoColor=white&color=9400D3)
