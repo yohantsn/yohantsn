@@ -1,7 +1,7 @@
 <h1>Hi, i'm Yohan Sampaio </h1>
 
 
-![Yohan Sampaio Repository's Stats](https://github-readme-stats.vercel.app/api?username=yohantsn&show_icons=true)
+![Yohan Sampaio Repository's Stats](https://github-readme-stats.vercel.app/api?username=yohantsn&show_icons=true&theme=blue-green)
 
 ### About Me
 
@@ -11,11 +11,12 @@ office. I always try to bring to projects that help the concept of clean
 architecture and test culture.
 
 
-### Technologies & Tools
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=9400D3)
+### Expertise
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 ![](https://img.shields.io/badge/Database-Realm-informational?style=flat&logo=realm&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sqlserver&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9400D3)
