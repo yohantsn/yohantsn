@@ -6,8 +6,8 @@
 ### About Me
 
 - I have worked with development since 2017, in Mobile I have more than 3 years of
-experience. I have worked in areas such as: health, IOT, finance and back
-office. I always try to bring to projects that help the concept of clean
+experience. I have worked in areas such as health, IOT, finance, and back
+office. I always try to bring projects that help the concept of clean
 architecture and test culture.
 
 
