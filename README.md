@@ -5,11 +5,7 @@
 
 ### About Me
 
-- I have worked with development since 2017, in Mobile I have more than 3 years of
-experience. I have worked in areas such as health, IOT, finance, and back
-office. I always try to bring projects that help the concept of clean
-architecture and test culture.
-
+- Experienced Flutter Engineer with a passion for creating innovative and user-friendly mobile applications. Proficient in Flutter development, utilizing tools like BLoC, Modularization, and Dependency Injection to build scalable and maintainable apps. Collaborative team player with a track record of working effectively in cross-functional environments. Holds a Professional Scrum Master (PSM1) certification, demonstrating strong understanding of Scrum principles and agile methodologies. Committed to staying updated with industry trends and delivering cutting-edge solutions. Detail-oriented and dedicated to continuous improvement. Excited to contribute technical expertise and drive project success as part of a dynamic team.
 
 ### Expertise
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
