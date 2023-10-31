@@ -5,7 +5,8 @@
 
 ### About Me
 
-- Experienced Flutter Engineer with a passion for creating innovative and user-friendly mobile applications. Proficient in Flutter development, utilizing tools like BLoC, Modularization, and Dependency Injection to build scalable and maintainable apps. Collaborative team player with a track record of working effectively in cross-functional environments. Holds a Professional Scrum Master (PSM1) certification, demonstrating strong understanding of Scrum principles and agile methodologies. Committed to staying updated with industry trends and delivering cutting-edge solutions. Detail-oriented and dedicated to continuous improvement. Excited to contribute technical expertise and drive project success as part of a dynamic team.
+- Hey! :wave:,my name is Yohan, I'm Brazilian and living in Portugal. I'm passionate about new techs, and how things work, those passions brought me where I am actually. In my ten years of experience in the IT area, I already worked on many things, from technical support and finally as a Mobile Engineer. In all the places that I passed, I learned many things and always left my best, and with my experience, I look to help solve problems and create some fantastic new features
+
 
 ### Expertise
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
