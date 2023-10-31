@@ -5,7 +5,7 @@
 
 ### About Me
 
-- Hey! :wave:,my name is Yohan, I'm Brazilian and living in Portugal. I'm passionate about new techs, and how things work, those passions brought me where I am actually. In my ten years of experience in the IT area, I already worked on many things, from technical support and finally as a Mobile Engineer. In all the places that I passed, I learned many things and always left my best, and with my experience, I look to help solve problems and create some fantastic new features
+- Hey! :wave:, my name is Yohan, I'm Brazilian and living in Portugal. I'm passionate about new techs, and how things work, those passions brought me where I am actually. In my ten years of experience in the IT area, I already worked on many things, from technical support and finally as a Mobile Engineer. In all the places that I passed, I learned many things and always left my best, and with my experience, I look to help solve problems and create some fantastic new features
 
 
 ### Expertise
