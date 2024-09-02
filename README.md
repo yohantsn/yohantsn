@@ -28,8 +28,8 @@
 [![PlayStore Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Holon+Developments)
 
 ### Certifications
-[![GitHub Foundations](https://github.com/user-attachments/assets/c5a963fd-e8fd-4fc2-abb9-731366fa0d3a)
-[![PSM1](https://github.com/user-attachments/assets/48395754-9c45-4043-89b4-597661d0aed8)
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c5a963fd-e8fd-4fc2-abb9-731366fa0d3a">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/48395754-9c45-4043-89b4-597661d0aed8">
 
 
 <!---
